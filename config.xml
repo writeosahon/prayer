@@ -20,6 +20,7 @@
 <preference name="Fullscreen" value="false"/>
 <preference name="Orientation" value="portrait"/>
 <preference name="AndroidLaunchMode" value="singleTop"/>
+<preference name="buildArchitecture" value="x86" />
 </platform>
 <splash platform="android" src="package-assets/splash/splash1.png" density="ldpi" width="320" height="426" orientation="portrait"/>
 <splash platform="android" src="package-assets/splash/splash2.png" density="xhdpi" width="720" height="960" orientation="portrait"/>
